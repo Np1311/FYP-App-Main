@@ -1,0 +1,8 @@
+numpy
+pydicom
+PyQt5
+matplotlib
+opencv-python
+mysql-connector-python
+keras
+django
